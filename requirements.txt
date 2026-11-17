@@ -1,0 +1,9 @@
+# Tested with Python 3.13.9 on macOS (CPU).
+numpy==2.3.5
+pandas==2.3.3
+torch==2.11.0
+nbformat==5.10.4
+nbconvert==7.16.6
+ipykernel==6.31.0
+matplotlib==3.10.9
+tqdm==4.67.1
