@@ -2,6 +2,8 @@
 
 **Team: slonyariki**
 
+The same documentation is available in Russian: [README](ru/README.md) and [technical report (PDF)](ru/slonyariki.pdf).
+
 A reproducible solution for [More than a Hack 2027](https://github.com/metrica-sports/more-than-a-hack-2027), the frame-by-frame football possession challenge by Metrica Sports and FC Barcelona.
 
 ## What does this project do?
